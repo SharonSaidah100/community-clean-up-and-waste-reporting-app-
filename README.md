@@ -4,3 +4,4 @@ EXPECTED IMPACTST
 Cleaner environment
 increase community participation
 better waste management
+https://docs.google.com/document/d/1RGtkV8aAXBJBEoY_ThtayHWH-tL5JPhj10zT81dI1zE/edit?usp=sharing
